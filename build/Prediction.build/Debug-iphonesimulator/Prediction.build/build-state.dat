@@ -1,0 +1,256 @@
+TPrediction
+v7
+r0
+t322318407.146403
+cCheck dependencies
+cProcessInfoPlistFile "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Info.plist" Prediction-Info.plist
+cCompileXIB "/Users/almilitaru/Documents/Xcode projects/Prediction/MainWindow.xib"
+cCompileXIB "/Users/almilitaru/Documents/Xcode projects/Prediction/PredictionViewController.xib"
+cProcessPCH /var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch.gch Prediction_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/main.o "/Users/almilitaru/Documents/Xcode projects/Prediction/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionAppDelegate.o "/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionViewController.o "/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction" normal i386
+cGenerateDSYMFile "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app.dSYM" "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction"
+cTouch "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.h
+c000000004D73ACDB00000000000001F6
+t1299426523
+s502
+i<UIKit/UIKit.h>
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.m
+c000000004D73ACDB0000000000000AA9
+t1299426523
+s2729
+i"PredictionAppDelegate.h"
+i"PredictionViewController.h"
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.h
+c000000004D73BF2A0000000000000278
+t1299431210
+s632
+i<UIKit/UIKit.h>
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.m
+c000000004D73CA530000000000000B93
+t1299434067
+s2963
+i"PredictionViewController.h"
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/MainWindow.xib
+c000000004D73ACDB0000000000004E4D
+t1299426523
+s20045
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/PredictionViewController.xib
+c000000004D73CCEB00000000000064DD
+t1299434731
+s25821
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/Prediction_Prefix.pch
+c000000004D73ACDB00000000000000BD
+t1299426523
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app
+t1299434735
+s238
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app.dSYM
+t1299434161
+s102
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Info.plist
+t1299427586
+s603
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/MainWindow.nib
+t1299427586
+s1129
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/PkgInfo
+t1299427586
+s8
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction
+t1299434161
+s19216
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/PredictionViewController.nib
+t1299434735
+s2005
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/Prediction.LinkFileList
+c000000004D73B10200000000000001D2
+t1299427586
+s466
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionAppDelegate.o
+t1299431218
+s51196
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionViewController.o
+t1299434161
+s52616
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/main.o
+t1299427587
+s6332
+
+N/Users/almilitaru/Documents/Xcode projects/Prediction/main.m
+c000000004D73ACDB0000000000000171
+t1299426523
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch.gch
+t1299427587
+s15453392
+
+NPrediction-Info.plist
+c000000004D73ACDB000000000000038D
+t1299426523
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322318407#322318407#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionAppDelegate.o "/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321124018.499620
+e321124018.615798
+r1
+xCompileC
+xbuild/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionAppDelegate.o
+x/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.m321124018#321124018#0(0"0(0#0#85"/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.m8647933568#2203"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-generated-files.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-own-target-headers.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-all-target-headers.hmap" -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-project-headers.hmap" "-F/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/include" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources/i386" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources" -include /var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch -c "/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionAppDelegate.m" -o "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionAppDelegate.o"0#
+
+CCompileC build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionViewController.o "/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321126961.239161
+e321126961.399411
+r1
+xCompileC
+xbuild/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionViewController.o
+x/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.m321126961#321126961#0(0"0(0#0#88"/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.m8652913984#2209"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-generated-files.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-own-target-headers.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-all-target-headers.hmap" -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-project-headers.hmap" "-F/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/include" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources/i386" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources" -include /var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch -c "/Users/almilitaru/Documents/Xcode projects/Prediction/Classes/PredictionViewController.m" -o "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/PredictionViewController.o"0#
+
+CCompileC build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/main.o "/Users/almilitaru/Documents/Xcode projects/Prediction/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321120387.262192
+e321120387.316786
+r1
+xCompileC
+xbuild/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/main.o
+x/Users/almilitaru/Documents/Xcode projects/Prediction/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/almilitaru/Documents/Xcode projects/Prediction/main.m321120387#321120387#0(0"0(0#0#60"/Users/almilitaru/Documents/Xcode projects/Prediction/main.m8655405888#2161"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-generated-files.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-own-target-headers.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-all-target-headers.hmap" -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-project-headers.hmap" "-F/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/include" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources/i386" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources" -include /var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch -c "/Users/almilitaru/Documents/Xcode projects/Prediction/main.m" -o "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/almilitaru/Documents/Xcode projects/Prediction/MainWindow.xib"
+s321120386.031302
+e321120386.428913
+r1
+xCompileXIB
+x/Users/almilitaru/Documents/Xcode projects/Prediction/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321120386#321120386#0(0"0(0#0#68"/Users/almilitaru/Documents/Xcode projects/Prediction/MainWindow.xib8654281120#624"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/MainWindow.nib" "/Users/almilitaru/Documents/Xcode projects/Prediction/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/almilitaru/Documents/Xcode projects/Prediction/PredictionViewController.xib"
+s321127535.244715
+e321127535.650447
+r1
+xCompileXIB
+x/Users/almilitaru/Documents/Xcode projects/Prediction/PredictionViewController.xib
+lSLF07#2@39"CompileXIB PredictionViewController.xib321127535#321127535#0(0"0(0#0#82"/Users/almilitaru/Documents/Xcode projects/Prediction/PredictionViewController.xib8650817408#652"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/PredictionViewController.nib" "/Users/almilitaru/Documents/Xcode projects/Prediction/PredictionViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app.dSYM" "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction"
+s321126961.427846
+e321126961.443434
+r1
+xGenerateDSYMFile
+x/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app.dSYM
+x/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Prediction.app.dSYM build/Debug-iphonesimulator/Prediction.app/Prediction321126961#321126961#0(0"0(0#0#107"/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction8666322208#443"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction" -o "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app.dSYM"0#
+
+CLd "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction" normal i386
+s321126961.399500
+e321126961.427731
+r1
+xLd
+x/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction
+xnormal
+xi386
+lSLF07#2@112"Link /Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction321126961#321126961#0(0"0(0#0#0"8654494784#1000"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator" "-F/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator" -filelist "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Objects-normal/i386/Prediction.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Prediction"0#
+
+CProcessInfoPlistFile "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Info.plist" Prediction-Info.plist
+s321120386.010340
+e321120386.031212
+r1
+xProcessInfoPlistFile
+x/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Info.plist
+xPrediction-Info.plist
+lSLF07#2@29"Process Prediction-Info.plist321120386#321120386#0(0"0(0#0#75"/Users/almilitaru/Documents/Xcode projects/Prediction/Prediction-Info.plist8630462752#539"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Prediction-Info.plist -genpkginfo "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app/Info.plist"0#
+
+CProcessPCH /var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch.gch Prediction_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321120386.448788
+e321120387.261921
+r1
+xProcessPCH
+x/var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch.gch
+xPrediction_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Prediction_Prefix.pch321120386#321120387#0(0"0(0#0#75"/Users/almilitaru/Documents/Xcode projects/Prediction/Prediction_Prefix.pch8629920960#2033"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-generated-files.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-own-target-headers.hmap" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-all-target-headers.hmap" -iquote "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/Prediction-project-headers.hmap" "-F/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/include" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources/i386" "-I/Users/almilitaru/Documents/Xcode projects/Prediction/build/Prediction.build/Debug-iphonesimulator/Prediction.build/DerivedSources" -c "/Users/almilitaru/Documents/Xcode projects/Prediction/Prediction_Prefix.pch" -o /var/folders/rR/rRD4UcNdGP8PL2EUqX-juE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prediction_Prefix-goymybekdwywnmazabxpfflkpqoj/Prediction_Prefix.pch.gch0#
+
+CTouch "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app"
+s321127535.651077
+e321127535.653624
+r1
+xTouch
+x/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app
+lSLF07#2@102"Touch /Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app321127535#321127535#0(0"0(0#0#0"8644916736#315"    cd "/Users/almilitaru/Documents/Xcode projects/Prediction"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/almilitaru/Documents/Xcode projects/Prediction/build/Debug-iphonesimulator/Prediction.app"0#
+
